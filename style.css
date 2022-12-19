@@ -1,13 +1,18 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
-a {
-  color: orange;
+.imgbox img {
+  width: 100%;
 }
 
-a:hover {
-  color: black;
+#demo .box {
+  background-image: url("Assets/33.trapes.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-/*# sourceMappingURL=style.css.map */
+#demo .box .imgbox {
+  width: 400px;
+  height: 400px;
+}/*# sourceMappingURL=style.css.map */
