@@ -29,19 +29,23 @@ header .menu nav a {
   background-image: url(https://startbootstrap.github.io/startbootstrap-grayscale/assets/img/bg-masthead.jpg);
   background-size: cover;
 }
-#start h1 {
-  font-size: 80px;
+#start .textbox {
+  margin: 120px 0;
+}
+#start .textbox h1 {
+  font-size: 100px;
   color: rgba(85, 42, 42, 0.658);
 }
-#start p {
-  color: #777272;
+#start .textbox p {
+  color: #5a5555;
   font-size: 20px;
+  padding: 50px 0;
 }
-#start .btn {
+#start .textbox .btn {
   padding: 10px 25px;
   background-color: #93d8dd;
 }
-#start .btn h5 {
+#start .textbox .btn h5 {
   font-size: 18px;
   color: white;
 }/*# sourceMappingURL=style.css.map */
