@@ -18,9 +18,10 @@ header {
 header .minibox h3 {
   font-size: 18px;
   font-weight: 700;
+  color: rgba(134, 130, 130, 0.801);
 }
 header .menu nav a {
-  color: #000;
+  color: rgba(134, 130, 130, 0.801);
   margin-right: 30px;
 }
 
