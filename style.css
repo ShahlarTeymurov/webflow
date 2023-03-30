@@ -5,14 +5,4 @@ body {
 
 .imgbox img {
   width: 100%;
-}
-
-#demo .box {
-  background-image: url("Assets/33.trapes.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-#demo .box .imgbox {
-  width: 400px;
-  height: 400px;
 }/*# sourceMappingURL=style.css.map */
