@@ -5,4 +5,16 @@ body {
 
 .imgbox img {
   width: 100%;
+}
+
+header {
+  padding: 25px 0;
+}
+header .minibox h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+header .menu nav a {
+  color: #000;
+  margin-right: 30px;
 }/*# sourceMappingURL=style.css.map */
