@@ -48,4 +48,28 @@ header .menu nav a {
 #start .textbox .btn h5 {
   font-size: 18px;
   color: white;
+}
+
+#about {
+  padding: 60px 0;
+  background-color: #000;
+}
+#about .textbox {
+  margin: 0 308px;
+}
+#about .textbox h1 {
+  font-size: 45px;
+  color: white;
+  margin-bottom: 25px;
+}
+#about .textbox p {
+  font-size: 19px;
+  color: #a5a0a0;
+  line-height: 1.4;
+  margin-bottom: 70px;
+}
+#about .textbox p span {
+  text-decoration: underline;
+  color: #87e4d0;
+  opacity: 0.8;
 }/*# sourceMappingURL=style.css.map */
