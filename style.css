@@ -72,4 +72,23 @@ header .menu nav a {
   text-decoration: underline;
   color: #87e4d0;
   opacity: 0.8;
+}
+
+#projects {
+  padding: 120px 0;
+}
+#projects .box {
+  width: 298px;
+  margin-top: 62px;
+  border-left: 8px solid #68d4a7;
+}
+#projects .box h1 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+#projects .box p {
+  font-size: 19px;
+  line-height: 1.4;
+  color: rgba(0, 0, 0, 0.5);
 }/*# sourceMappingURL=style.css.map */
