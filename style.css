@@ -12,4 +12,28 @@ body {
 }
 #webflow .box {
   background-color: #dbe72e;
+  width: 250px;
+  border-radius: 20px;
+  padding: 50px;
+}
+#webflow .box h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 60px;
+}
+#webflow .box input {
+  border: 2px solid #bdbaba;
+  margin-bottom: 70px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+#webflow .box .btn {
+  border: 3px solid #bccf84;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+#webflow .box .btn h3 {
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
