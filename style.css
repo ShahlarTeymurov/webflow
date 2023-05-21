@@ -36,4 +36,11 @@ body {
 }
 #webflow .box .btn h3 {
   cursor: pointer;
+}
+#webflow .minibox {
+  width: 200px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
