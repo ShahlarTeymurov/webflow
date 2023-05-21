@@ -11,7 +11,7 @@ body {
   padding: 100px 0;
 }
 #webflow .box {
-  background-color: #dbe72e;
+  background-color: #92a740;
   width: 250px;
   border-radius: 20px;
   padding: 50px;
@@ -20,6 +20,7 @@ body {
   font-weight: 700;
   font-size: 50px;
   margin-bottom: 60px;
+  color: #f5b80c;
 }
 #webflow .box input {
   border: 2px solid #bdbaba;
