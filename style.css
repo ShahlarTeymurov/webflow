@@ -5,4 +5,11 @@ body {
 
 .imgbox img {
   width: 100%;
+}
+
+#webflow {
+  padding: 100px 0;
+}
+#webflow .box {
+  background-color: #dbe72e;
 }/*# sourceMappingURL=style.css.map */
