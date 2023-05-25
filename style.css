@@ -16,9 +16,6 @@ body {
   height: 400px;
   border-radius: 20px;
 }
-#webflow .box .minibox {
-  margin-top: 60px;
-}
 #webflow .box .minibox h1 {
   font-weight: 700;
   font-size: 50px;
