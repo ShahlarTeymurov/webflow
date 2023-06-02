@@ -11,7 +11,7 @@ body {
   padding: 100px 0;
 }
 #webflow .box {
-  background-color: #92a740;
+  background-color: #a4caff;
   width: 300px;
   height: 400px;
   border-radius: 20px;
@@ -28,7 +28,7 @@ body {
   margin: 20px 0 50px 0;
 }
 #webflow .box .btn {
-  border: 3px solid #bccf84;
+  border: 3px solid white;
   border-radius: 10px;
   cursor: pointer;
   background-color: white;
